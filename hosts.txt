@@ -1,0 +1,91 @@
+➜  eleme git:(master) ✗ python poc.py "/etc/hosts"
+127.0.0.1   localhost localhost.localdomain localhost4 lo
+::1         localhost localhost.localdomain localhost6 lo
+10.10.1.5 aoneuat.rajax.me  aoneuat
+10.10.1.6 aoneuatdb.rajax.me  aoneuatdb
+
+10.10.1.8 aoneprddb.rajax.me aoneprddb
+10.10.1.7 aoneprd.rajax.me aoneprd
+
+10.10.1.3 ebsdb.rajax.me ebsdb ebs
+10.10.1.2 ebsprd.rajax.me  ebsprd
+
+10.10.1.4 aonedev.rajax.me  aonedev
+10.10.1.1 ebsdev.rajax.me ebsdev
+10.10.1.11    sso.rajax.me
+
+10.10.4.1       hrtestapp1.rajax.me hrtestapp1
+#oms
+10.10.1.10      hrproddb.local.com hrproddb.rajax.me hrpr
+10.10.1.16 ismdb.rajax.me ism
+
+10.10.1.17 develop.rajax.me develop
+10.10.1.18      test.rajax.me           test
+10.10.1.19      configure.rajax.me      configure
+10.10.1.30      prod1.rajax.me          prod1
+10.10.1.31      prod2.rajax.me          prod2
+10.10.1.32      prod1bak.rajax.me       prod1bak
+10.10.1.33      prod2bak.rajax.me       prod2bak
+
+10.10.1.48      act1.rajax.me act1
+10.10.1.55      ebs2.rajax.me ebs2
+10.10.1.54      ebs1.rajax.me ebs1
+
+10.10.1.37      itsmproddb itsmproddb.rajax.me
+10.10.1.36      actproddb actproddb.rajax.me
+
+10.10.1.49      silent
+10.10.1.57      mysql.slave
+10.10.1.11      actprodapp1
+10.10.1.13      actprodapp2
+
+172.16.10.182 oauat.local.com oauat
+10.10.1.51 itsmapp1
+10.10.1.52 itsmapp2
+
+10.10.1.76  jpm1.rajax.me jpm1
+10.10.1.77      baksrv1.rajax.me        baksrv1
+
+10.10.1.55 tssproddb tssproddb.rajax.me
+
+10.10.1.53      tssapp1.rajax.me tssapp1
+10.10.4.48 itsm-app1-recovery
+10.10.4.49 itsm-app2-recovery
+10.10.4.50 itsm-db-recovery
+
+10.10.4.45 ACT-SSO-APP1-RECOVERY
+10.10.4.46 ACT-SSO-APP2-RECOVERY
+10.10.4.47 ACT-SSO-DB-RECOVERY
+
+10.10.4.51 ehrapp1recovery
+10.10.4.52 ehrapp2recovery
+10.10.4.53 ehrdbrecovery
+
+10.10.4.54      TSS-APP-RECOVERY.rajax.me TSS-APP-RECOVER
+10.10.4.55      TSS-DB-RECOVERY.rajax.me TSS-DB-RECOVERY
+
+10.10.4.56      AONE-APP1-RECOVERY.rajax.me AONE-APP1-REC
+10.10.4.57      AONE-APP2-DB-RECOVERY.rajax.me AONE-APP2-
+
+10.10.4.60      ebsapp1.rajax.me ebsapp1
+10.10.4.61      ebsdb1.rajax.me ebsdb1
+
+10.10.4.70 pmsdb1rec
+
+#2016-06-13 14:26 by zhongyanng.lu
+115.159.103.157 yunli.alpha.elenet.me
+115.159.104.96  yunli.beta.elenet.me
+10.10.1.9 oms.rajax.me oms
+
+10.10.1.5  traveluat.rajax.me
+
+#elk
+#ELK SERVER
+10.10.1.77      elksrv1.rajax.me        elksrv1
+10.10.1.77      elksrv2.rajax.me        elksrv2
+10.10.1.77      elksrv3.rajax.me        elksrv3
+10.10.1.6      elksrv4.rajax.me elksrv4
+10.10.1.5      elksrv5.rajax.me elksrv5
+
+#block url
+126.0.0.1       xmr.crypto-pool.fr
